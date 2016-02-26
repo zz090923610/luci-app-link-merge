@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-03 08:25+0200\n"
+"PO-Revision-Date: 2013-10-10 20:15+0200\n"
+"Last-Translator: Zhao Zhang <formywillcancer@gmail.com>\n"
+"Language-Team: Zhao Zhang <formywillcancer@gmail.com>\n\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.6\n"
+
+msgid "link-merge"
+msgstr "链路聚合"
+
+msgid "link-merge title"
+msgstr "链路聚合"
+
+msgid "link-merge title desc"
+msgstr "您可以在这里设置外网连接方式，有普通模式和链路聚合模式可供选择。链路聚合模式可同时接入多达4路的PPPoE的认证帐号。填入并启用无效、余额不足的帐号会导致您的网络无法使用。"
+
+
+msgid "Link Aggregation Settings"
+msgstr "请在下方设置您的上网帐号"
+
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Account"
+msgstr "帐号"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Network Authentication Settings."
+msgstr "网络帐号设置"
+
+
+msgid "Single Account(DHCP,PPPoE,Static) or Multiple Accounts"
+msgstr "是否启用链路聚合"
+
+
+msgid "Single"
+msgstr "不启用"
+
+msgid "Multiple"
+msgstr "启用"
+
+msgid "Change wan protocal type"
+msgstr "选择外网协议"
+
+
+msgid "static ip address"
+msgstr "静态IP地址"
+
+msgid "static ip netmask"
+msgstr "静态IP地址掩码"
+
+msgid "static ip gateway"
+msgstr "静态IP网关"
+
+msgid "static DNS servers"
+msgstr "DNS服务器"
+
+msgid "pppoe username"
+msgstr "PPPoE用户名"
+
+msgid "pppoe password"
+msgstr "PPPoE密码"
+
+msgid "macaddr override"
+msgstr "MAC　地址克隆"
+
+msgid "Enable Account 1"
+msgstr "启用接口 1"
+
+msgid "Account 1"
+msgstr "接口 1 用户名"
+
+msgid "Password 1"
+msgstr "接口 1 密码"
+
+msgid "Enable Account 2"
+msgstr "启用接口 2"
+
+msgid "Account 2"
+msgstr "接口 2 用户名"
+
+msgid "Password 2"
+msgstr "接口 2 密码"
+
+msgid "Enable Account 3"
+msgstr "启用接口 3"
+
+msgid "Account 3"
+msgstr "接口 3 用户名"
+
+msgid "Password 3"
+msgstr "接口 3 密码"
+
+msgid "Enable Account 4"
+msgstr "启用接口 4"
+
+msgid "Account 4"
+msgstr "接口 4 用户名"
+
+msgid "Password 4"
+msgstr "接口 4 密码"
+
+msgid "Proto type of multi-wans"
+msgstr "链路聚合接口协议"
